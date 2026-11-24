@@ -150,7 +150,7 @@ if app_mode == "🧊 Dispatch Console":
     # ------------------------------------------
     # TAB 1: CHAT UI & AGENT EXECUTION
     # ------------------------------------------
-    st.title("Cold-Chain Logistics Incident Control Dashboard")
+    st.title("Cold-Chain Logistics Intelligence Dashboard")
     st.caption("Production Data Engineering Pipeline • Real-Time Decision Optimization Platform")
 
     # Replay chat history
