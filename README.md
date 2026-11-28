@@ -41,7 +41,7 @@ This project introduces an autonomous AI agent that understands natural-language
 |---|---|
 | Language | Python |
 | AI Framework | LangGraph, LangChain |
-| LLMs | OpenAI, DeepSeek, Ollama |
+| LLMs | OpenAI, Gemini, DeepSeek |
 | Database | Microsoft SQL Server |
 | Vector Database | Pinecone |
 | Embeddings | HuggingFace, OpenAI |
